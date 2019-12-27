@@ -1,0 +1,8 @@
+D:\Development\Factorio Multiplayer\Factorio Multiplayer\Factorio Multiplayer\bin\x86\Release\Factorio Multiplayer.exe.config
+D:\Development\Factorio Multiplayer\Factorio Multiplayer\Factorio Multiplayer\bin\x86\Release\Factorio Multiplayer.exe
+D:\Development\Factorio Multiplayer\Factorio Multiplayer\Factorio Multiplayer\bin\x86\Release\Factorio Multiplayer.pdb
+D:\Development\Factorio Multiplayer\Factorio Multiplayer\Factorio Multiplayer\obj\x86\Release\Factorio_Multiplayer.Form1.resources
+D:\Development\Factorio Multiplayer\Factorio Multiplayer\Factorio Multiplayer\obj\x86\Release\Factorio_Multiplayer.Properties.Resources.resources
+D:\Development\Factorio Multiplayer\Factorio Multiplayer\Factorio Multiplayer\obj\x86\Release\Factorio Multiplayer.csproj.GenerateResource.cache
+D:\Development\Factorio Multiplayer\Factorio Multiplayer\Factorio Multiplayer\obj\x86\Release\Factorio Multiplayer.exe
+D:\Development\Factorio Multiplayer\Factorio Multiplayer\Factorio Multiplayer\obj\x86\Release\Factorio Multiplayer.pdb
